@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Cristóbal Montaño
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Cristóbal Montaño Lopez 👋
+- I’m interested in Data Science and Software Development
+- I’m currently learning ... 🌱 
 
 <!---
 cml096/cml096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
