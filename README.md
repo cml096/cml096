@@ -1,5 +1,5 @@
 - Hi, I’m Cristóbal Montaño Lopez 👋
-- I’m interested in Data Science and Software Development
+- I’m interested in Software Development
 - I’m currently learning ... 🌱 
 
 <!---
