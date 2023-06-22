@@ -1,4 +1,4 @@
-- Hi, I’m Cristóbal Montaño Lopez 👋
+- Hi, I’m Cristóbal 👋
 - I’m interested in Software Development
 - I’m currently learning ... 🌱 
 
